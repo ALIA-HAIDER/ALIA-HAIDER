@@ -1,7 +1,7 @@
 
 # 👋 Hello, I'm ALIA HAIDER
+![image1](https://github.com/ALIA-HAIDER/ALIA-HAIDER/assets/149009369/8456bbb0-e207-473a-9687-b29c2bc7a056)
 
-![Profile Banner](link-to-your-profile-banner-image)
 
 As a B.tech computer science student, my passion for technology fuels my drive to learn and grow every day.
 Welcome to my GitHub profile! Here, you'll find a collection of projects that reflect my interests, skills, and contributions to the tech community.
