@@ -32,7 +32,8 @@ Welcome to my GitHub profile! Here, you'll find a collection of projects that re
 I'm always excited to meet fellow developers, enthusiasts, and learners. Feel free to reach out, and let's create something amazing together!
 
 <!-- Optional: Add a quote or a fun fact -->
-> "Your quote or a fun fact."
+> fun fact
+> "my mind is like a web browser. 19 tabs are open ,3 are frozen and i have no idea where the music is coming from"
 
 
 
