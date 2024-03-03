@@ -20,6 +20,7 @@ Welcome to my GitHub profile! Here, you'll find a collection of projects that re
 - Html
 - CSS
 - C++
+- c
 
 ## 🌐 Connect with Me
 
