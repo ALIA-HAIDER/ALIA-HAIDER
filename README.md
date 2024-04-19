@@ -19,6 +19,8 @@ Welcome to my GitHub profile! Here, you'll find a collection of projects that re
 - python
 - Html
 - CSS
+- javaScript
+- tailwind Css
 - C++
 - c
 
