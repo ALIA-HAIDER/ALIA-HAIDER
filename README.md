@@ -22,7 +22,8 @@ Welcome to my GitHub profile! Here, you'll find a collection of projects that re
 - javaScript
 - tailwind Css
 - C++
-- c
+- C
+- React
 
 ## 🌐 Connect with Me
 
