@@ -1,57 +1,60 @@
+# 👋 Hi, I'm ALIA HAIDER – crafting code and igniting ideas!!
 
-# 👋 Hello, I'm ALIA HAIDER
-![image1](https://github.com/ALIA-HAIDER/ALIA-HAIDER/assets/149009369/8456bbb0-e207-473a-9687-b29c2bc7a056)
+Welcome to my digital domain! I am a B.Tech Computer Science student with an unwavering passion for technology and software development. My GitHub profile is a showcase of innovative projects that combine cutting-edge technology with creative flair. Join me on this journey as I transform visionary ideas into impactful solutions!
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ALIA-HAIDER&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-As a B.tech computer science student, my passion for technology fuels my drive to learn and grow every day.
-Welcome to my GitHub profile! Here, you'll find a collection of projects that reflect my interests, skills, and contributions to the tech community.
+---
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing a Bachelor of Technology degree in Computer Science .
-- 🌱 I'm constantly learning and exploring new technologies.
-- 👯 I'm open to collaborations and discussions on interesting projects.
-- 💬 Ask me about python,html.
-- 📫 How to reach me: aliahaider149@gmail.com
+- 🔭 **Current Status**: A dedicated B.Tech Computer Science student focused on mastering full-stack development.
+- 🌱 **Learning Path**: Committed to continuous learning, I embrace modern frameworks and technologies to stay ahead in the fast-evolving tech landscape.
+- 👯 **Collaborative Spirit**: I thrive on collaboration, eagerly connecting with fellow innovators to brainstorm and create groundbreaking projects.
+- 💬 **Expertise**: Proficient in Python, HTML, JavaScript, Java, React, Node.js, Next UI, and Express.js, ready to tackle any challenge that comes my way.
+- 📫 **Connect with Me**: Let's collaborate! Reach out at aliahaider149@gmail.com
+
+---
 
 ## 🛠️ Skills and Tools
 
-- python
-- Html
-- CSS
-- javaScript
-- tailwind Css
-- C++
-- C
-- React
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Next%20UI-000000?style=for-the-badge&logo=next-dot-js&logoColor=white" alt="Next UI"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Mantine-1B7CC5?style=for-the-badge&logo=mantine&logoColor=white" alt="Mantine"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALIA-HAIDER&show_icons=true&theme=onedark)
+
+---
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/alia-haider-46676929a/)
+<a href="https://www.linkedin.com/in/alia-haider-46676929a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
+---
 
+## 🤝 Let's Collaborate!
 
-## 🤝 Let's Connect
+I'm passionate about forging connections with fellow developers, tech enthusiasts, and lifelong learners. Together, we can create transformative solutions that make a difference. Don't hesitate to reach out!
 
-I'm always excited to meet fellow developers, enthusiasts, and learners. Feel free to reach out, and let's create something amazing together!
+---
 
-<!-- Optional: Add a quote or a fun fact -->
-> fun fact
-> "my mind is like a web browser. 19 tabs are open ,3 are frozen and i have no idea where the music is coming from"
-
-
-
-<!--
-**ALIA-HAIDER/ALIA-HAIDER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 💡 **Fun Fact**: "My mind is like a web browser. 19 tabs are open, 3 are frozen, and I have no idea where the music is coming from."
