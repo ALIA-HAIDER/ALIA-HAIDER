@@ -24,6 +24,8 @@ Welcome to my digital domain! I am a B.Tech Computer Science student with an unw
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALIA-HAIDER&show_icons=true&theme=onedark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALIA-HAIDER&layout=compact&theme=radical)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=ALIA-HAIDER&theme=dark)](https://git.io/streak-stats)
 
 
