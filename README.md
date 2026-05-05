@@ -1,48 +1,272 @@
-# 👋 Hi, I'm ALIA HAIDER – crafting code and igniting ideas!!
+<div align="center">
 
-Welcome to my digital domain! I am a B.Tech Computer Science student with an unwavering passion for technology and software development. My GitHub profile is a showcase of innovative projects that combine cutting-edge technology with creative flair. Join me on this journey as I transform visionary ideas into impactful solutions!
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ALIA-HAIDER&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
----
+<div align="center">
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=36&pause=1000&color=E6A800&center=true&vCenter=true&width=650&lines=hi+there%2C+i%27m+Alia+%E2%9C%A8;full-stack+dev+%F0%9F%90%BE;ai+%2F+ml+builder+%E2%9C%A8;i+ship+things+that+work+nyaa~" />
 
-- 🔭 **Current Status**: A dedicated B.Tech Computer Science student focused on mastering full-stack development.
-- 🌱 **Learning Path**: Committed to continuous learning, I embrace modern frameworks and technologies to stay ahead in the fast-evolving tech landscape.
-- 👯 **Collaborative Spirit**: I thrive on collaboration, eagerly connecting with fellow innovators to brainstorm and create groundbreaking projects.
-- 💬 **Expertise**: Proficient in Python, HTML, JavaScript, Java, React, Node.js, Next UI, and Express.js, ready to tackle any challenge that comes my way.
-- 📫 **Connect with Me**: Let's collaborate! Reach out at aliahaider149@gmail.com
+<br/>
 
----
+```
+   Welcome to my github Profile ˙ᵕ˙        
+   building real stuff with ai + full-stack
+  currently: caffeinated  ฅ^•ﻌ•^ฅ
+```
 
-## 🛠️ Skills and Tools
+<br/>
 
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/> <img src="https://img.shields.io/badge/Next%20UI-000000?style=for-the-badge&logo=next-dot-js&logoColor=white" alt="Next UI"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/> <img src="https://img.shields.io/badge/Mantine-1B7CC5?style=for-the-badge&logo=mantine&logoColor=white" alt="Mantine"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white" alt="Mongoose"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </p>
----
+<a href="mailto:aliahaider149@gmail.com"><img src="https://img.shields.io/badge/✉️%20email%20me-FFE566?style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/alia-haider-46676929a/"><img src="https://img.shields.io/badge/💼%20linkedin-FFE566?style=for-the-badge"/></a>
+<a href="https://github.com/ALIA-HAIDER"><img src="https://img.shields.io/badge/🐾%20github-FFE566?style=for-the-badge"/></a>
+<img src="https://komarev.com/ghpvc/?username=ALIA-HAIDER&label=visitors&color=FFB800&style=for-the-badge"/>
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALIA-HAIDER&show_icons=true&theme=onedark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALIA-HAIDER&layout=compact&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ALIA-HAIDER&theme=dark)](https://git.io/streak-stats)
-
+</div>
 
 ---
 
-## 🌐 Connect with Me
+<br/>
 
-<a href="https://www.linkedin.com/in/alia-haider-46676929a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+## ✦ about me
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
+
+```yaml
+name    :  alia haider
+degree  :  b.tech cse @ university of lucknow
+loves   :  building things that actually matter
+hates   :  null pointer exceptions  >_<
+deep in :  ai / ml rabbit hole
+vibe    :  cozy cat who writes serious code
+status  :  open to internships ✨
+```
+
+<br clear="right"/>
 
 ---
 
-## 🤝 Let's Collaborate!
+<br/>
 
-I'm passionate about forging connections with fellow developers, tech enthusiasts, and lifelong learners. Together, we can create transformative solutions that make a difference. Don't hesitate to reach out!
+## ✦ my stack
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="130"><b>🐱 languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-FFE566?style=for-the-badge&logo=python&logoColor=5a3e00"/>
+      <img src="https://img.shields.io/badge/JavaScript-FFE566?style=for-the-badge&logo=javascript&logoColor=5a3e00"/>
+      <img src="https://img.shields.io/badge/TypeScript-FFE566?style=for-the-badge&logo=typescript&logoColor=5a3e00"/>
+      <img src="https://img.shields.io/badge/C++-FFE566?style=for-the-badge&logo=cplusplus&logoColor=5a3e00"/>
+      <img src="https://img.shields.io/badge/C-FFE566?style=for-the-badge&logo=c&logoColor=5a3e00"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🌸 frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-FFD700?style=for-the-badge&logo=react&logoColor=5a3e00"/>
+      <img src="https://img.shields.io/badge/Next.js-FFD700?style=for-the-badge&logo=nextdotjs&logoColor=5a3e00"/>
+      <img src="https://img.shields.io/badge/React%20Native-FFD700?style=for-the-badge&logo=react&logoColor=5a3e00"/>
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-FFD700?style=for-the-badge&logo=tailwindcss&logoColor=5a3e00"/>
+      <img src="https://img.shields.io/badge/Framer%20Motion-FFD700?style=for-the-badge&logo=framer&logoColor=5a3e00"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-FFE566?style=for-the-badge&logo=nodedotjs&logoColor=5a3e00"/>
+      <img src="https://img.shields.io/badge/Express.js-FFE566?style=for-the-badge&logo=express&logoColor=5a3e00"/>
+      <img src="https://img.shields.io/badge/Flask-FFE566?style=for-the-badge&logo=flask&logoColor=5a3e00"/>
+      <img src="https://img.shields.io/badge/Socket.IO-FFE566?style=for-the-badge&logo=socketdotio&logoColor=5a3e00"/>
+      <img src="https://img.shields.io/badge/REST%20APIs-FFE566?style=for-the-badge&logoColor=5a3e00"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️ databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-FFD700?style=for-the-badge&logo=mongodb&logoColor=5a3e00"/>
+      <img src="https://img.shields.io/badge/MySQL-FFD700?style=for-the-badge&logo=mysql&logoColor=5a3e00"/>
+      <img src="https://img.shields.io/badge/SQLAlchemy-FFD700?style=for-the-badge&logo=sqlalchemy&logoColor=5a3e00"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧠 ai / ml</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Scikit--learn-FFE566?style=for-the-badge&logo=scikitlearn&logoColor=5a3e00"/>
+      <img src="https://img.shields.io/badge/Pandas-FFE566?style=for-the-badge&logo=pandas&logoColor=5a3e00"/>
+      <img src="https://img.shields.io/badge/NumPy-FFE566?style=for-the-badge&logo=numpy&logoColor=5a3e00"/>
+      <img src="https://img.shields.io/badge/LightGBM-FFE566?style=for-the-badge&logoColor=5a3e00"/>
+      <img src="https://img.shields.io/badge/Streamlit-FFE566?style=for-the-badge&logo=streamlit&logoColor=5a3e00"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🛠️ tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=5a3e00"/>
+      <img src="https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=5a3e00"/>
+      <img src="https://img.shields.io/badge/Docker-FFD700?style=for-the-badge&logo=docker&logoColor=5a3e00"/>
+      <img src="https://img.shields.io/badge/Postman-FFD700?style=for-the-badge&logo=postman&logoColor=5a3e00"/>
+      <img src="https://img.shields.io/badge/VS%20Code-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=5a3e00"/>
+      <img src="https://img.shields.io/badge/Jupyter-FFD700?style=for-the-badge&logo=jupyter&logoColor=5a3e00"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>📚 concepts</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/DSA-FFE566?style=for-the-badge&logoColor=5a3e00"/>
+      <img src="https://img.shields.io/badge/OOP-FFE566?style=for-the-badge&logoColor=5a3e00"/>
+      <img src="https://img.shields.io/badge/DBMS-FFE566?style=for-the-badge&logoColor=5a3e00"/>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-> 💡 **Fun Fact**: "My mind is like a web browser. 19 tabs are open, 3 are frozen, and I have no idea where the music is coming from."
+<br/>
+
+## ✦ things i've built  *ฅ(^ↀᴥↀ^)ฅ
+
+<br/>
+
+
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"/> &nbsp; **🛡️ upi fraud detection system**
+
+trained random forest, gradient boosting & lightgbm to catch sus transactions before they land. built a live streamlit dashboard so real humans can actually use it.
+
+![Python](https://img.shields.io/badge/python-fffbea?style=flat-square&logo=python&logoColor=c47f00)
+![Streamlit](https://img.shields.io/badge/streamlit-fffbea?style=flat-square&logo=streamlit&logoColor=c47f00)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-fffbea?style=flat-square&logo=scikitlearn&logoColor=c47f00)
+![LightGBM](https://img.shields.io/badge/lightgbm-fffbea?style=flat-square&logoColor=c47f00)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"/> &nbsp; **🧠 ai vs code extension**
+
+extension that watches your code like a strict sensei. detects code smells & inefficiencies live. ml model behind a flask api, wired to vs code via typescript.
+
+![TypeScript](https://img.shields.io/badge/typescript-fffbea?style=flat-square&logo=typescript&logoColor=c47f00)
+![Flask](https://img.shields.io/badge/flask-fffbea?style=flat-square&logo=flask&logoColor=c47f00)
+![Node.js](https://img.shields.io/badge/node.js-fffbea?style=flat-square&logo=nodedotjs&logoColor=c47f00)
+![VS Code API](https://img.shields.io/badge/vscode%20api-fffbea?style=flat-square&logo=visualstudiocode&logoColor=c47f00)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"/> &nbsp; **💬 real-time chat app**
+
+full-stack chat with socket.io real-time events, jwt auth, cloudinary image uploads & persistent sessions. the chat app you'd actually want to use.
+
+![React](https://img.shields.io/badge/react-fffbea?style=flat-square&logo=react&logoColor=c47f00)
+![Socket.IO](https://img.shields.io/badge/socket.io-fffbea?style=flat-square&logo=socketdotio&logoColor=c47f00)
+![MongoDB](https://img.shields.io/badge/mongodb-fffbea?style=flat-square&logo=mongodb&logoColor=c47f00)
+![Zustand](https://img.shields.io/badge/zustand-fffbea?style=flat-square&logoColor=c47f00)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"/> &nbsp; **[🏘️ neighborly – neighborhood matching](https://culture-connect-two.vercel.app/)**
+
+full-stack platform that matches users to their ideal neighborhood via preference-based clustering. google maps api integration with dynamic locality cards.
+
+![Next.js](https://img.shields.io/badge/next.js-fffbea?style=flat-square&logo=nextdotjs&logoColor=c47f00)
+![MongoDB](https://img.shields.io/badge/mongodb-fffbea?style=flat-square&logo=mongodb&logoColor=c47f00)
+![Tailwind](https://img.shields.io/badge/tailwind-fffbea?style=flat-square&logo=tailwindcss&logoColor=c47f00)
+![Node.js](https://img.shields.io/badge/node.js-fffbea?style=flat-square&logo=nodedotjs&logoColor=c47f00)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"/> &nbsp; **[🎉 prism 2.0 – tech fest website](https://www.prism2025.tech)**
+
+web platform for managing the annual tech fest prism 2.0. event pages, registration, team listings — all with buttery smooth animations.
+
+![React](https://img.shields.io/badge/react-fffbea?style=flat-square&logo=react&logoColor=c47f00)
+![Next.js](https://img.shields.io/badge/next.js-fffbea?style=flat-square&logo=nextdotjs&logoColor=c47f00)
+![Framer Motion](https://img.shields.io/badge/framer%20motion-fffbea?style=flat-square&logo=framer&logoColor=c47f00)
+![Zustand](https://img.shields.io/badge/zustand-fffbea?style=flat-square&logoColor=c47f00)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"/> &nbsp; **🎗️ breast cancer detection model**
+
+ml model for early cancer prediction on medical datasets. multi-algorithm comparison with accuracy, precision, recall & f1-score evaluation.
+
+![Python](https://img.shields.io/badge/python-fffbea?style=flat-square&logo=python&logoColor=c47f00)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-fffbea?style=flat-square&logo=scikitlearn&logoColor=c47f00)
+![Pandas](https://img.shields.io/badge/pandas-fffbea?style=flat-square&logo=pandas&logoColor=c47f00)
+![NumPy](https://img.shields.io/badge/numpy-fffbea?style=flat-square&logo=numpy&logoColor=c47f00)
+
+</td>
+</tr>
+</table>
+
+---
+
+<br/>
+
+## ✦ trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ALIA-HAIDER&theme=algolia&no-frame=true&column=7&margin-w=8"/>
+</p>
+
+---
+
+<br/>
+
+## ✦ github stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ALIA-HAIDER&show_icons=true&hide_border=true&bg_color=fffbea&title_color=c47f00&icon_color=e6a800&text_color=5a3e00" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALIA-HAIDER&layout=compact&hide_border=true&bg_color=fffbea&title_color=c47f00&text_color=5a3e00" height="160"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=ALIA-HAIDER&hide_border=true&background=fffbea&stroke=FFB800&ring=FFB800&fire=e6a800&currStreakNum=5a3e00&sideNums=5a3e00&currStreakLabel=c47f00&sideLabels=c47f00&dates=999"/>
+
+</div>
+
+---
+
+<br/>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+
+<br/>
+
+```
+  ／l、
+（ﾟ､ ｡７    thanks for visiting ˘ᵕ˘
+     go drink some water and touch some grass
+ 
+```
+
+<br/>
+
+*made with ☕ & a suspicious amount of cat energy*
+
+</div>
