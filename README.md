@@ -38,7 +38,7 @@ name    :  alia haider
 degree  :  b.tech cse @ university of lucknow
 loves   :  building things that actually matter
 hates   :  null pointer exceptions  >_<
-deep in :  ai / ml rabbit hole
+deep in :  ai / ml 
 vibe    :  cozy cat who writes serious code
 status  :  open to internships ✨
 ```
